@@ -14,7 +14,7 @@ El objetivo de esta aplicación es proporcionar a los usuarios una experiencia d
 
 1. **Catálogo de Productos:** La tienda contará con un catálogo de productos de moda, organizados en diferentes categorías. Cada producto tendrá su imagen, descripción y precio.
 
-2. ** Filtros:** Los usuarios podrán filtrar por categoría.
+2. **Filtros:** Los usuarios podrán filtrar por categoría.
 
 3. **Carrito de Compras:** Los usuarios podrán agregar productos a su carrito de compras mientras navegan por la tienda. El carrito mostrará la lista de productos seleccionados, la cantidad y el total a pagar.
 
