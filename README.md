@@ -32,6 +32,6 @@ Para el desarrollo de esta tienda en línea de ropa, se utilizaron las siguiente
 
 ## Consideraciones Finales
 
-Este proyecto final del curso de React de CoderHouse es una aplicación completamente funcional y bien diseñada, con características esenciales para una experiencia de compra agradable y segura. Ha sido desarrollado como parte del proceso de aprendizaje y mejora de habilidades en el desarrollo de aplicaciones web.
+Este proyecto final del curso de React de CoderHouse es una aplicación funcional, con características esenciales para una experiencia de compra agradable y segura. Ha sido desarrollado como parte del proceso de aprendizaje y mejora de habilidades en el desarrollo de aplicaciones web.
 
 ¡Gracias por leer la descripción de este emocionante proyecto! Si tienes alguna sugerencia o comentario, no dudes en hacérmelo saber. ¡Espero que disfrutes explorando esta tienda en línea de ropa y que la experiencia de compra sea satisfactoria!
